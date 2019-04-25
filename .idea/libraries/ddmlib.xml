@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ddmlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ddmlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
